@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  gap: 40px;
+  align-items: center;
+}
+.sec1,
+.sec2,
+.sec3 {
+  height: 320px;
+  width: 240px;
+  border: 2px solid rgb(158, 157, 157);
+  text-align: center;
+  border-radius: 4px;
+}
+.b1,
+.b2,
+.b3 {
+  color: white;
+  background-color: orange;
+  width: 80px;
+  border-radius: 18px;
+}
